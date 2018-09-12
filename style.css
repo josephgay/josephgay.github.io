@@ -1,0 +1,20 @@
+.jumbotron {
+	background-image: url(golf-1284012_1920.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	height: 100vh;
+}
+
+.btn-danger {
+	background-color: #6C9A33;
+	border:none;
+}
+
+.display-5 {
+	color: white;
+	font-size: 25px;
+	font-family: Palatino;
+	text-align: center;
+}
